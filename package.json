@@ -1,0 +1,44 @@
+{
+
+    "name": "pageping",
+
+    "version": "0.0.1",
+
+    "description": "",
+
+    "main": "main.js",
+ 
+    "scripts": {
+        "test": "echo \"Error:no test specified\" && exit 1",
+        "start": "electron .",
+        "dev:watch": "npx electronmon --trace-warnings ."
+    },
+
+    "keywords": [
+
+        "electron"
+
+    ],
+
+    "author": "Panagiotis and Ronen",
+
+    "license": "MIT",
+
+    "repository": {
+
+        "type": "git",
+
+        "url": "git+https://github.com/ronenrosenberg/Page-Ping.git"
+
+    },
+
+    "bugs": {
+
+        "url": "https://github.com/ronenrosenberg/Page-Ping/issues"
+
+    },
+
+    "homepage": "https://github.com/ronenrosenberg/Page-Ping#readme"
+
+}
+
